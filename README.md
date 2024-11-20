@@ -25,7 +25,7 @@ Each model is located under the `io.swagger.client.models` package.
 
 ## Installation
 
-You can add this library to your project via [JitPack](https://jitpack.io/).
+You can add this library to your project via [JitPack](https://jitpack.io/), which is free for open-source projects.
 
 ### Maven
 
